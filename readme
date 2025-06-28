@@ -8,6 +8,7 @@ A high-performance, SEO-optimized landing page for a B2B fabric company built wi
 ## 🚀 Features
 
 - **Zero client-side JavaScript** – Pure SSR/SSG HTML.
+- ** Use only Tailwind CSS
 - **SEO optimized** for high Google rankings (structured data, meta tags, schema, fast load).
 - **B2B focused design** for fabric/textile companies.
 - **Accessible & mobile-first** layout.
