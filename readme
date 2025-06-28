@@ -1,0 +1,59 @@
+# B2B Fabric Company Landing Page
+
+A high-performance, SEO-optimized landing page for a B2B fabric company built with [Next.js](https://nextjs.org/).  
+**No client-side JavaScript** is shipped for a lightning-fast and accessible user experience.
+
+---
+
+## 🚀 Features
+
+- **Zero client-side JavaScript** – Pure SSR/SSG HTML.
+- **SEO optimized** for high Google rankings (structured data, meta tags, schema, fast load).
+- **B2B focused design** for fabric/textile companies.
+- **Accessible & mobile-first** layout.
+- **Fast loading** with image optimization and minimal resources.
+- **Inspired by:** [dhananjaycreation.com/ahmedabad/embroidered-sarees.htm](https://dhananjaycreation.com/ahmedabad/embroidered-sarees.htm)
+
+---
+
+## 📸 Demo
+
+> _Coming soon: Screenshots and live preview link!_
+
+---
+
+## 🏗️ Project Structure
+
+- `pages/` - All static pages (SSR/SSG).
+- `public/` - Images and static assets.
+- `components/` - Reusable UI elements (all server-rendered).
+- `styles/` - CSS modules or global styles, with critical CSS.
+
+---
+
+## 🔍 SEO Approach
+
+- Clean, semantic HTML (using Next.js server-side features).
+- Custom `<Head>` tags for each page with meta descriptions, titles, and Open Graph.
+- Image `alt` attributes for accessibility and SEO.
+- [Schema.org](https://schema.org/) markup for products/services.
+- Fast load time (Google Core Web Vitals).
+- No client-side JS = No hydration or unnecessary JS files.
+
+---
+
+## 💼 B2B Focused Elements
+
+- Product categories and service sections tailored for fabric wholesalers and buyers.
+- Strong CTAs: "Request Quote," "Contact Us," "View Catalogue."
+- Trust signals: Certifications, client logos, testimonials, etc.
+- Clear contact and location info.
+
+---
+
+## 🛠️ Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/b2b-fabric-landing-page.git
+   cd b2b-fabric-landing-page
